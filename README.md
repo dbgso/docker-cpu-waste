@@ -1,5 +1,6 @@
 # docker-cpu-waste
-wasting cpu docker image
+
+Docker image to waste cpu for testing a server.
 
 ## usage
 
